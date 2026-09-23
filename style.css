@@ -20,6 +20,9 @@ h2 {
     color: #6f4e37;
 }
 
-section {
-    padding: 40px;
+}section {
+    padding: 40 px;
+    font-size: 18px;
+    max-width: 800px;
+    margin: auto;
 }
